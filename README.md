@@ -1,51 +1,20 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Avançando na criação de Prompts - O prompt gerador de prompts
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esete Prompt gera Prompts para o seu uso cotidiano, te ajudando a desenvolver tarefas de todas as áreas, conforme a necessidade do usuário.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[Grok](https://grok.com/)** para toda a criação.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Grok para toda a criação do projeto, realizando perguntas e refinando conforme respostas e testes realizados. O objetivo seria criar um Prompt pai que conseguisse cirar qualquer tipo de Prompt para qualquer necessidade do usuário, realizando perguntas iniciais e validações.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Um prompt criador de Prompts (PCP) espetacular, que realiza exatamente o que destinado, conversando com o usuário, refinando suas respostas e desenvolvendo o prompt para a sua necessidade. 
+
+**[Projetos Grok](https://grok.com/project/29313b1b-e16c-46d7-9ead-296ed81fba27?tab=attachments)**
+
+Obs. Você pode clonar o projeto no Grok e realizar os testes e edições conmforme sua necessidade. Caso prefira utilizar outra IA Generativa, copie o prompt e cole direto no chat da outra IA.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+É de extrema importância que saibamos conversar com a IA da maneira correta, para que gere economia de tokens e obtenha as respostas corretas. Utilizar um prompt ajuda em tarefas repetitivas, pois deixa o processo mais rápido e previsível.
