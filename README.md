@@ -17,4 +17,4 @@ Um prompt criador de Prompts (PCP) espetacular, que realiza exatamente o que des
 Obs. Você pode clonar o projeto no Grok e realizar os testes e edições conmforme sua necessidade. Caso prefira utilizar outra IA Generativa, copie o prompt e cole direto no chat da outra IA.
 
 ## 💭 Reflexão (Opcional)
-É de extrema importância que saibamos conversar com a IA da maneira correta, para que gere economia de tokens e obtenha as respostas corretas. Utilizar um prompt ajuda em tarefas repetitivas, pois deixa o processo mais rápido e previsível.
+É de extrema importância que saibamos conversar com a IA da maneira correta, para que gere economia de tokens e obtenha as melhores respostas. Utilizar um prompt ajuda em tarefas repetitivas, pois deixa o processo mais rápido e previsível.
